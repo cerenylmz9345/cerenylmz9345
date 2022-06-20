@@ -1,6 +1,6 @@
 <a href="https://instagram.com/cerenylmz460"><img src="https://img.shields.io/badge/@cerenylmz460-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
-
+https://cdn.discordapp.com/emojis/852309521173970975.gif?size=80&quality=lossless
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/968626503304749106?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/968626503304749106)
 
 ## languages I know
