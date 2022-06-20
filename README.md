@@ -3,7 +3,7 @@
 
 
 
-Selam Ben Ceren <img src = "https://cdn.discordapp.com/emojis/846596368973692978.webp?size=20&quality=lossless.pngv=1" high="20px" width="30px">
+<img src = "https://cdn.discordapp.com/emojis/846596368973692978.webp?size=20&quality=lossless.png?v=1" high="20px" width="30px">
 ## languages I know
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
