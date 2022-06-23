@@ -7,3 +7,4 @@
 ## languages I know
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<a href="https://discord.com/users/968626503304749106"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=black" /></a> &nbsp;
